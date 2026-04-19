@@ -1,0 +1,8 @@
+{
+  "row_count": 9,
+  "min_reference_date": "2025-04-01",
+  "max_reference_date": "2025-04-03",
+  "alerts": [
+    "1 registro(s) com value_mwmed igual a zero."
+  ]
+}

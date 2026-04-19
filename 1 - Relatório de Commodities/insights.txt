@@ -1,0 +1,10 @@
+Principais pontos observados:
+- Nickel foi a commodity mais volátil da amostra, pedindo monitoramento mais frequente.
+- Copper apresentou a série mais estável do grupo, útil como referência para comparação.
+- A melhor performance em 30 dias foi de Nickel (3.17%).
+- A pior performance em 30 dias foi de Zinc (-3.09%).
+
+Recomendações sugeridas:
+- área de compras: intensificar acompanhamento das séries mais voláteis e evitar decisões concentradas em picos recentes;
+- financeiro: trabalhar cenários de custo com bandas de variação para os insumos mais sensíveis;
+- gestão: acompanhar um painel simples com tendência recente, volatilidade e desvios vs. média móvel de 30 dias.

@@ -1,0 +1,10 @@
+reference_date,subsystem,metric_type,value_mwmed,source,ingestion_timestamp,natural_key
+2025-04-01,SE/CO,consumption,51234.7,ONS,2026-04-17 00:21:19.249113+00:00,2025-04-01|SE/CO|consumption
+2025-04-01,S,consumption,12340.5,ONS,2026-04-17 00:21:19.249113+00:00,2025-04-01|S|consumption
+2025-04-01,NE,generation,16450.2,CCEE,2026-04-17 00:21:19.249113+00:00,2025-04-01|NE|generation
+2025-04-02,SE/CO,consumption,51990.1,ONS,2026-04-17 00:21:19.249113+00:00,2025-04-02|SE/CO|consumption
+2025-04-02,S,consumption,12220.0,ONS,2026-04-17 00:21:19.249113+00:00,2025-04-02|S|consumption
+2025-04-02,NE,generation,16580.3,CCEE,2026-04-17 00:21:19.249113+00:00,2025-04-02|NE|generation
+2025-04-03,SE/CO,consumption,0.0,ONS,2026-04-17 00:21:19.249113+00:00,2025-04-03|SE/CO|consumption
+2025-04-03,S,consumption,12412.8,ONS,2026-04-17 00:21:19.249113+00:00,2025-04-03|S|consumption
+2025-04-03,NE,generation,16710.4,CCEE,2026-04-17 00:21:19.249113+00:00,2025-04-03|NE|generation

@@ -1,0 +1,4 @@
+reference_date,subsystem,metric_type,value_mwmed,source,ingestion_timestamp,natural_key
+2025-04-03,SE/CO,consumption,0.0,ONS,2026-04-17 00:21:19.249113+00:00,2025-04-03|SE/CO|consumption
+2025-04-03,S,consumption,12412.8,ONS,2026-04-17 00:21:19.249113+00:00,2025-04-03|S|consumption
+2025-04-03,NE,generation,16710.4,CCEE,2026-04-17 00:21:19.249113+00:00,2025-04-03|NE|generation
