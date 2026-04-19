@@ -1,5 +1,5 @@
 
-# Case Data Engineering - Resolução Completa
+# Case Data Engineering - Resolução 
 
 ## Objetivo
 Resolver um case de engenharia de dados envolvendo:
